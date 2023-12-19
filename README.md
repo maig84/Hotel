@@ -1,2 +1,2 @@
 # Hotel
-Hotel website
+(URL) https://maig84.github.io/Hotel/
